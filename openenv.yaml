@@ -1,0 +1,8 @@
+name: fraud-detection-env
+version: 1.0.0
+description: A real-world transaction monitoring environment for LLM agents.
+tasks:
+  - easy
+  - medium
+  - hard
+entrypoint: inference.py
